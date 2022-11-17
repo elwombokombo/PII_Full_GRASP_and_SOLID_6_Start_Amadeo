@@ -7,3 +7,4 @@ namespace Full_GRASP_And_SOLID
          string GetTextToPrint();
     }
 }
+
